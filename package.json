@@ -1,0 +1,13 @@
+{
+  "name": "savanna",
+  "version": "1.0.0",
+  "description": "Savanna web service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'No build step required'"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

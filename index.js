@@ -19,7 +19,7 @@ const server = http.createServer((req, res) => {
           align-items: center;
           min-height: 100vh;
           margin: 0;
-          background: #f5f5f5;
+          background: pink;
           color: #333;
         }
         .container {
